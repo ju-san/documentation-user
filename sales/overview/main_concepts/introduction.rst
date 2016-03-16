@@ -1,5 +1,5 @@
 ==========================
-Introduction to Odoo Sales
+Pengenalan Modul Sales
 ==========================
 
 .. youtube:: VMuCr5_arsY
@@ -9,6 +9,8 @@ Introduction to Odoo Sales
 
 Transcript
 ==========
+
+Modul Sales mengelola data calon pelanggan, pelanggan dan penjualan, meliputi 
 
 As a sales manager, closing opportunities with Odoo Sales is 
 really simple.
